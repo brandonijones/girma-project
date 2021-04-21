@@ -3,7 +3,13 @@
         <MDBRow class="row">
             <MDBCol lg="4" class="d-flex justify-content-center align-items-center" v-bind:key="artVideo.id" v-for="artVideo in artVideos">
                 <MDBCard class="mb-3 cursor strong-2-shadow" aria-controls="artVideoModal" @click="artVideoModal = true; setId(artVideo.id);">
-                    <iframe top v-bind:src="artVideo.source" title="YouTube video player" allowfullscreen></iframe>
+                    <iframe 
+                        top
+                        class="img-fluid "
+                        width="448"
+                        v-bind:src="artVideo.source" 
+                        title="YouTube video player" 
+                        allowfullscreen></iframe>
                     <MDBCardBody>
                         <MDBCardTitle>{{artVideo.name}}</MDBCardTitle>
                     </MDBCardBody>
@@ -27,8 +33,8 @@
             <MDBContainer fluid>
                 <MDBRow class="row my-1">
                     <MDBCol lg="6" class="d-flex justify-content-center align-items-center">
-                        <iframe 
-                            class="img-fluid" 
+                        <iframe
+                            width="448" height="252" 
                             v-bind:src="getVidIndex(artVideos, index = currentItem - 1).source" 
                             v-bind:id="getVidIndex(artVideos, index = currentItem - 1).detail" 
                             title="YouTube video player" 
