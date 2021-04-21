@@ -4,7 +4,7 @@
             <MDBCol lg="4" class="d-flex justify-content-center align-items-center" v-bind:key="artVideo.id" v-for="artVideo in artVideos">
                 <MDBCard class="mb-3 cursor strong-2-shadow" aria-controls="artVideoModal" @click="artVideoModal = true; setId(artVideo.id);">
                     <video top muted controls v-bind:id="artVideo.gallery">
-                        <source v-bind:src="artVideo.source" type="video/mp4" >
+                        <source v-bind:src="artVideo.source" type="video/mp4" codecs="avc1.42E01E, mp4a.40.2">
                     </video>
                     <MDBCardBody>
                         <MDBCardTitle>{{artVideo.name}}</MDBCardTitle>
@@ -30,7 +30,7 @@
                 <MDBRow class="row my-1">
                     <MDBCol lg="6" class="d-flex justify-content-center align-items-center">
                         <video controls v-bind:id="getVidIndex(artVideos, index = currentItem - 1).detail" class="img-fluid">
-                            <source  v-bind:src="getVidIndex(artVideos, index = currentItem - 1).source" type="video/mp4">
+                            <source  v-bind:src="getVidIndex(artVideos, index = currentItem - 1).source" type="video/mp4" codecs="avc1.42E01E, mp4a.40.2">
                         </video>
                     </MDBCol>
                     <MDBCol lg="6" class="my-3">
