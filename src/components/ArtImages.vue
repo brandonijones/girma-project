@@ -103,7 +103,7 @@ export default {
                     gallery: "giraffe-g",
                     detail: "giraffe-d",
                     source: require('@/assets/images/giraffe-bw.png'),
-                    description: "This is the only photo of the last giraffe with a short neck. It's very unfortunate that these giraffes are are so rare. Maybe one day we will be able to see one of these again.",
+                    description: "This is the only photo of the last giraffe with a short neck. It's very unfortunate that these giraffes are so rare. Maybe one day we will be able to see one of these again.",
                     variants: [
                         {
                             id: 0,
@@ -119,11 +119,11 @@ export default {
                 },
                 {
                     id: 3,
-                    name: "Ms. Dik Dik",
+                    name: "Ms. Dik-Dik",
                     gallery: "dikdik-g",
                     detail: "dikdik-d",
                     source: require('@/assets/images/dikdik.png'),
-                    description: "Ever see a dik dik in a business suit with a red fedora and self-applied lipstick in the middle of the African savannah? Well now you have, and her name is Ms. Dik Dik. She is the only one of her kind to evolve on the level of humans. Through shear will, determination, and observation, she got to standing on her hind legs and put on a suit. Ms. Dik Dik hopes to find a job in America where she can be an accountant."
+                    description: "Ever see a dik-dik in a business suit with a red fedora and self-applied lipstick in the middle of the African savannah? Well now you have, and her name is Ms. Dik Dik. She is the only one of her kind to evolve to the level of humans. Through sheer will, determination, and observation, she got to standing on her hind legs and put on a suit. Ms. Dik Dik hopes to find a job in America where she can be an accountant."
                 },
             ]
         }

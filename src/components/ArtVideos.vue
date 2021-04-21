@@ -108,7 +108,7 @@ export default {
                     gallery: "cello-g",
                     detail: "cello-d",
                     source: "https://www.youtube.com/embed/_OigJAK9084",
-                    description: "An original piece played by Bruno C. Johns that shows struggle, pain, and persevernce. Despite the challenges and shortcomings the musician faced while using a cello with a frayed bow and missing parts, he still pressed on to finish the song. "
+                    description: "This original piece played by Bruno C. Johns that shows struggle, pain, and perseverance. Despite the challenges and shortcomings that the musician faced while using a cello with a frayed bow and missing parts, he still pressed on to finish the song. "
                 },
                 {
                     id: 3,
@@ -116,7 +116,7 @@ export default {
                     gallery: "cacophony-g",
                     detail: "cacophony-d",
                     source: "https://www.youtube.com/embed/tzlt-D9b9no",
-                    description: "Uncovered in the year 2016. The artist is unknown, but the message is clear. Many listeners may look at this as some sort of nonsense or cacophony of sounds and they are very wrong. This song tells the story of life unlike any other song before. The beginning represents the simplicities of childhood and how it quickly turns into chaos. The artist cleaverly uses a variety of instruments and musical sounds to help immerse the user in this experience. Whoever made this was clearly born in the wrong generation."
+                    description: "Uncovered in the year 2016. The artist is unknown, but the message is clear. Many listeners may look at this as some sort of nonsense or cacophony of sounds and they are very wrong. This song tells the story of life unlike any other song before. The beginning represents the simplicities of childhood and how it quickly turns into chaos. The artist cleverly uses a variety of instruments and musical sounds to help immerse the user in this experience. Whoever made this was clearly born in the wrong generation."
                 },
             ]
         }

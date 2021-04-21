@@ -4,7 +4,7 @@
             <h2>How to Reach Us</h2>
             <p>Email: thegirma2021@gmail.com</p>
             <p>Phone: Sorry, we have no phone number...</p>
-            <p>Feel free to contact us about any questions, concerns, or suggestions you have about our institute. 
+            <p>Feel free to contact us about any comments, questions, concerns, or suggestions you have about our institute. 
                 We will try to respond as soon as we can!
             </p>
             <h2>Send Us Your Art</h2>
