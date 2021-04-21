@@ -1,0 +1,17 @@
+{
+    "artImgs": [
+        {
+            "id": "1",
+            "name": "Penguin",
+            "source": "assets/img/penguin.png",
+            "description": "A truly one-of-a-kind flightless bird to ever walk the face of the planet"
+        }
+    ],
+    "artVideos": [
+        {
+            "id": "1",
+            "name": "some name",
+            "source": "some source"
+        }
+    ]
+}
