@@ -123,7 +123,7 @@ export default {
                     gallery: "dikdik-g",
                     detail: "dikdik-d",
                     source: require('@/assets/images/dikdik.png'),
-                    description: "Have you ever sees a dik-dik in a business suit with a red hat and self-applied lipstick in the middle of the African savannah? Well now you have, and her name is Ms. Dik-Dik. She is the only one of her kind to evolve to the level of humans. Through sheer will, determination, and observation, she got to standing on her hind legs and put on a suit. Ms. Dik-Dik hopes to find a job in America where she can be an accountant."
+                    description: "Have you ever seen a dik-dik in a business suit with a red hat and self-applied lipstick in the middle of the African savannah? Well now you have, and her name is Ms. Dik-Dik. She is the only one of her kind to evolve to the level of humans. Through sheer will, determination, and observation, she got to standing on her hind legs and put on a suit. Ms. Dik-Dik hopes to find a job in America where she can be an accountant."
                 },
             ]
         }
