@@ -6,21 +6,21 @@
         <img class="img-fluid pb-3 mw-100" src="../assets/images/cello.jpg" alt="artist rendering of a cello">
         
         <div class="fs-5">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore <em>all</em> dolore magna aliqua. 
-            Turpis egestas maecenas pharetra convallis posuere. Ut tristique et egestas quis. <em>Art</em> ut lectus arcu bibendum. Orci porta 
-            non pulvinar neque laoreet suspendisse interdum. Habitasse platea dictumst vestibulum rhoncus. Velit scelerisque in dictum 
-            non. Nisi vitae suscipit tellus mauris <em>was</em> diam. Praesent semper feugiat nibh sed. Facilisis leo vel fringilla est ullamcorper 
-            eget.</p>
-          <p>Sed elementum tempus egestas <em>made</em> sed risus. Ipsum suspendisse ultrices gravida dictum fusce. Cursus mattis molestie a 
-            iaculis at erat pellentesque. Dolor sit amet consectetur adipiscing elit. In nisl nisi scelerisque eu ultrices vitae. 
-            Elementum integer enim neque volutpat ac. Sem nulla pharetra diam sit amet. Ornare quam viverra orci sagittis eu volutpat. 
-            Faucibus turpis in eu mi <em>by</em> neque egestas. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius 
-            sit.</p>
+          <p>In the year 2000, Brawnson C. Johnson set out his quest to find the most compelling pieces of art. He searched far and wide to 
+            find the art that would be initially turned away by the critics or even the common folk. Mr. Johnson believed that there should 
+            be no restrictions to what can be considered art. In his eyes, almost all things are artistic to some extent, but when he had 
+            the idea for the institute, he wanted to find the ones that were rare. </p>
+          <p>Unfortunately, with this daunting task to find art that was so rare, Mr. Johnson was only able to find six pieces before he 
+            tragically passed away. However, in his will he stated that this should not be the end of the quest to find more rare modern 
+            art around the world. He wrote, “People will always be making beautiful pieces of art. That means people will also be rejecting 
+            art which also means we should always be accepting art.” So to continue the legacy of Brawnson C. Johnson’s quest to find more 
+            art, it is the reason why this website was created. </p>
           <p>
-            Amet consectetur adipiscing elit pellentesque habitant morbi. Suscipit adipiscing <em>brandon</em> est ultricies integer quis. 
-            In nulla posuere sollicitudin aliquam ultrices sagittis. Ac tortor vitae purus faucibus ornare suspendisse sed nisi. 
-            Sit amet porttitor eget <em>jones</em> morbi non arcu risus quis. Vulputate mi sit amet mauris commodo quis imperdiet massa. 
-            Amet consectetur adipiscing elit duis. Massa eget egestas purus viverra.
+            In the years of 2021 and beyond begins the new era art. We carefully preserved the original pieces found by Mr. Johnson and 
+            uploaded to this website for all to see. Here at the Global Institute of Rare Modern Art, we are always looking for content 
+            to add to our special gallery. Also, to make the job easier, we ask you to send any original pieces you have made so that 
+            we can review it and potentially add it to the gallery. The six original pieces are already a part of history and the vision 
+            of art seen by B.C. Johsnon. Maybe your art can be too.
           </p>
         </div>
       </MDBCol>
